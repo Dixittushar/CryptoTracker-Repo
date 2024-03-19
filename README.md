@@ -4,13 +4,12 @@ Welcome to Crypto-Tracker, your go-to solution for tracking your cryptocurrency 
 
 ## Table of Contents
 
-- [About COINDOM](#about-coindom)
+- [About Crypto-Tracker](#about-cryptotracker)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
--
 
 ## About Crypto-Tracker
 
