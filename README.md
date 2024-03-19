@@ -37,8 +37,6 @@ Crypto-Tracker comes equipped with a range of features tailored to cryptocurrenc
 
 To start using Crypto-tracker, follow these steps:
 
-![image](https://github.com/riteshk-007/COINDOM/assets/135107962/80f2ac00-7887-4ce7-b71b-fd2dd510066b)
-
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```shell
