@@ -1,0 +1,20 @@
+@import './mixins.scss';
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@400;500;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans Georgian", sans-serif;
+  }
+
+body,
+html {
+  width: 100%;
+  background: linear-gradient(0deg, #190439 0%, #230e4d 100%) no-repeat;
+  color: #fff;
+}
+.link {
+  color: #000;
+  text-decoration: none;
+}
